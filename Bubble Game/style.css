@@ -83,3 +83,49 @@ html,body{
     cursor: pointer;
     background-color: rgb(10, 67, 3);
 }
+
+
+
+.ply-btn{
+    background-color:rgb(39, 140, 25);
+    color:#fff;
+    font-weight: 700;
+    font-size: larger;
+    padding:20px;
+    outline:none;
+    border-radius:10px;
+    text-decoration: none;
+    border:none;
+    margin-top:20px;
+    transition: background-color 0.3s ease;
+
+
+    /* display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top:20px; */
+}
+
+.ply-btn:hover {
+    background-color: #135703;
+}
+
+.card{
+    width:300px;
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    justify-content:center;
+    height:300px;
+    border:None;
+    color:#135703;
+}
