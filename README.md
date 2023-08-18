@@ -1,5 +1,10 @@
 "# Js_projects" 
 
+
+👀👀👀👇
+    To see live preview of your application.
+    Go to this website and paste your index.html file url  http://htmlpreview.github.io/
+
 1. So our first project is Bubble Game ✔
             - 👀👀👀 in this project we are using sime html
             - 👀👀👀 css mostly flex-box
