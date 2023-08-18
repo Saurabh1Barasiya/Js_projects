@@ -19,8 +19,19 @@ function runTimer(){
             document.getElementById("timerVal").innerHTML = timer;
         }else{
             clearInterval(runTime);
-            document.querySelector("#pbtm").innerHTML = `<h1>Game Over</h1>`;
+            document.querySelector("#pbtm").innerHTML = `<div class="card">
+            <h1>Game Over</h1> <br />
+            <h2>Your Score is ${score}</h2>
+            <button id="play-again" class="ply-btn">Play Again</button>
+            </div>
+            `;
 
+            let btn = document.querySelector("#play-again");
+            btn.addEventListener("click", function(e){
+                location.reload();
+                console.log("bfsdbvhvshvs");
+                }
+            )
         }
     },1000);
 }
