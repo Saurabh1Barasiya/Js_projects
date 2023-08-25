@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html,body{
+    height: 100%;   
+    width:100%;
+    color:#FFF;
+}
+
+.main {
+    height: 100%;   
+    width:100%;
+    background-color: rgb(108, 248, 227);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.ctn{
+    height:80%;
+    width:80%;
+    background-color: rgb(73, 97, 97);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+
+.header{
+    height: 100px;
+    width:100%;
+    background-color: rgb(59, 54, 47);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:5vw;
+}
+
+
+.elem{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap:2vw;
+}
+
+
+.box{
+    height: 41px;
+    width: 50px;
+    background-color: rgb(15, 16, 15);
+    color: #FFF;
+    padding: 9px 15px;
+    border-radius: 8px;
+    font-size: larger;
+    font-weight: 900;
+}
+
+
+/* ----------- */
+.main-contain{
+    height: calc(100% - 100px);
+    padding: 1vw 2vw; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.dubba{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(15, 16, 15);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 900;
+    color: #fff;
+    margin: 1vw;
+}
+
+@media (max-width:600px) {
+    .header{
+        height: 150px;
+        display:flex;
+        flex-direction: column;
+        justify-content:center;
+        align-items: center;
+        gap:1vw;
+    }
+
+    .elem{
+        display: flex;
+        justify-content:center;
+        align-items: center;
+        max-width: 300px;
+    }
+
+    .elem h1{
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .box{
+        width: 50%;
+        max-width: 0 auto;
+        height: 41px;
+        width: 50px;
+        background-color: brown;
+        color: #FFF;
+        border-radius: 8px;
+        font-size: larger;
+    }
+}
