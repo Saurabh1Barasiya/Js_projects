@@ -13,3 +13,8 @@
             - Event Bubbling - if kisi element par event occur hua to javaScript us element par EventListner ko search karega , if EventListner nahi mila to to parent par search karega , if vaha bhi nahi milega to fir vo parent ke parent par jakar search karega.
 
     running prject link -- > http://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/Bubble%20Game/index.html
+
+
+👀👀👀👀👇👇
+2. Add , Remove Friend using JS Dom.
+   runnning project link ---> http://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/Add%20Remove%20friend/index.html
