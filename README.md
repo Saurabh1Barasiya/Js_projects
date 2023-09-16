@@ -33,4 +33,9 @@ running link ---->    http://htmlpreview.github.io/?https://github.com/Saurabh1B
 running link ---->  https://htmlpreview.github.io/?https://raw.githubusercontent.com/Saurabh1Barasiya/Js_projects/main/Responsive-landing-page/index.html
 
 
+👀👀👀👀👀👇👇👇👇👇👇👇👇
+
+5. Instagram Story Effects  
+    running link ---->  https://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/instagram%20story%20effect/index.html
+
 
