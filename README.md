@@ -39,3 +39,9 @@ running link ---->  https://htmlpreview.github.io/?https://raw.githubusercontent
     running link ---->  https://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/instagram%20story%20effect/index.html
 
 
+👀👀👀👀👀👇👇👇👇
+
+6. Movinng cursor
+
+running link ---->  https://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/moving%20cursor/index.html
+
