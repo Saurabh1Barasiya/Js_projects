@@ -1,47 +1,27 @@
-"# Js_projects" 
+# JavaScript Projects
 
+Welcome to my collection of JavaScript projects! Below are the live preview links for each project:
 
-👀👀👀👇
-    To see live preview of your application.
-    Go to this website and paste your index.html file url  http://htmlpreview.github.io/
+1. **Bubble Game**
+   - Description: A simple game using HTML, CSS (mostly flex-box), and JavaScript. Mainly focuses on DOM and event bubbling.
+   - [Live Preview](http://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/Bubble%20Game/index.html)
 
-1. So our first project is Bubble Game ✔
-            - 👀👀👀 in this project we are using sime html
-            - 👀👀👀 css mostly flex-box
-            - 👀👀👀 Java script 
-                - the main part of javascript we apply is DOM and event Bubbling.
-            - Event Bubbling - if kisi element par event occur hua to javaScript us element par EventListner ko search karega , if EventListner nahi mila to to parent par search karega , if vaha bhi nahi milega to fir vo parent ke parent par jakar search karega.
+2. **Add, Remove Friend using JS DOM**
+   - Description: A project demonstrating friend manipulation using JavaScript DOM.
+   - [Live Preview](http://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/Add%20Remove%20friend/index.html)
 
-    running prject link -- > http://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/Bubble%20Game/index.html
+3. **Website Landing Page**
+   - Description: A landing page for a website using HTML, CSS, and JavaScript.
+   - [Live Preview](http://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/cuberto-website/index.html)
 
+4. **One More Landing Page**
+   - Description: Another responsive landing page project.
+   - [Live Preview](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Saurabh1Barasiya/Js_projects/main/Responsive-landing-page/index.html)
 
-👀👀👀👀👇👇
-2. Add , Remove Friend using JS Dom.
-   runnning project link ---> http://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/Add%20Remove%20friend/index.html
-   
+5. **Instagram Story Effects**
+   - Description: A project showcasing Instagram story effects.
+   - [Live Preview](https://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/instagram%20story%20effect/index.html)
 
-👀👀👀👀👀👇👇👇👇👇
-3. website-landing-page
-
-running link ---->    http://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/cuberto-website/index.html
-
-
-👀👀👀👀👀👀👀👀 👇👇👇👇👇👇
-
-4. one-more-landing-page
-
-running link ---->  https://htmlpreview.github.io/?https://raw.githubusercontent.com/Saurabh1Barasiya/Js_projects/main/Responsive-landing-page/index.html
-
-
-👀👀👀👀👀👇👇👇👇👇👇👇👇
-
-5. Instagram Story Effects  
-    running link ---->  https://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/instagram%20story%20effect/index.html
-
-
-👀👀👀👀👀👇👇👇👇
-
-6. Movinng cursor
-
-running link ---->  https://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/moving%20cursor/index.html
-
+6. **Moving Cursor**
+   - Description: A project demonstrating a moving cursor effect.
+   - [Live Preview](https://htmlpreview.github.io/?https://github.com/Saurabh1Barasiya/Js_projects/blob/main/moving%20cursor/index.html)
